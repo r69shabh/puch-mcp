@@ -1,0 +1,8 @@
+fastmcp
+markdownify
+pydantic
+readabilipy
+httpx
+uvicorn
+python-jose[cryptography] # For RSAKeyPair
+openai # Though BaseModel was moved to pydantic, openai might be used elsewhere or by fastmcp implicitly
