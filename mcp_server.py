@@ -10,7 +10,7 @@ import readabilipy
 from pathlib import Path
 import os
 
-TOKEN = "d784c2954f43"
+# TOKEN = "XXXXXXXXXXXX" # Token removed from resume
 # MY_NUMBER = "91XXXXXXXXXX" # Phone number removed from resume
 RESUME_FILE_PATH = "resume.md"
 
